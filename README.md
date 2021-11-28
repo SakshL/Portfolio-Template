@@ -12,9 +12,9 @@
 
 Just change `src/portfolio.js` to get your personal portfolio. Customize portfolio theme by using your own color scheme globally in the  `src/_globalColor.scss` file. Feel free to use it as-is or personalize it as much as you want.
 
-If you'd like to **contribute** and make this much better for other users, have a look at [Issues](https://github.com/saadpasta/developerFolio/issues).
+If you'd like to **contribute** and make this much better for other users, have a look at [Issues](https://github.com/NotSaksh/Developer-Portfolio-Template/issues).
 
-Created something awesome for your fork of the portfolio and want to share it? Feel free to open a [pull request](https://github.com/saadpasta/developerFolio/pulls).
+Created something awesome for your fork of the portfolio and want to share it? Feel free to open a [pull request](https://github.com/NotSaksh/Developer-Portfolio-Template/pulls).
 
 ## Table of Contents
 - [Sections](#sections)
@@ -255,7 +255,7 @@ For more information, read [hosting on Netlify](https://create-react-app.dev/doc
 
 
 ## For the Future
-If you can help us with these. Please don't hesitate to open a [pull request](https://github.com/saadpasta/developerFolio/pulls).
+If you can help us with these. Please don't hesitate to open a [pull request](https://github.com/NotSaksh/Developer-Portfolio-Template/pulls).
 
 - Connect with LinkedIn to get Summary, Skills, Education and Experience
 
